@@ -1,1 +1,1 @@
-print('hello first git')
+print('second commit test')
